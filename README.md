@@ -1,5 +1,5 @@
 # Coffee-Machine
-Its a digital version of coffee-machine which is python scripted
+Its a classic digital version of coffee-machine which is python scripted without oops.
 # Description
 
 In this digital coffee machine we have generated three hot flavors which are espresso, latte and cappuccino. There are recipes for these three types of drinks.
